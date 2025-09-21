@@ -5,6 +5,8 @@ import cart from "./cart";
 
 console.log("KOOOOOLEGA");
 
+console.log("HALO");
+
 export default createStore({
   modules: {
     products,
